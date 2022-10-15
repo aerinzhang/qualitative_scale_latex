@@ -1,7 +1,7 @@
 # qualitative_scale_latex
 This is a scale in LaTex that I used in my paper to describe qualitative findings in my privacy label paper published in PoPETS 2022. 
 
-![alt text](https://github.com/aerinzhang/qualitative_scale_latex/blob/main/scale.pdf?raw=true)
+![alt text](https://github.com/aerinzhang/qualitative_scale_latex/blob/main/scale.png?raw=true)
 
 Citation of the paper:
 
