@@ -13,5 +13,5 @@ volume    = {2022},
 number    = {4},
 pages     = {204--228},
 year      = {2022},
-url       = {https://petsymposium.org/popets/2022/popets-2022-0106.pdf},
+url       = { https://petsymposium.org/popets/2022/popets-2022-0106.pdf },
 doi       = {10.2478/popets-2022-0106},}
